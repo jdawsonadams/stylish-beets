@@ -1,17 +1,17 @@
 html {
   background-color: #c9b5ab;
-  font-family:"PT Serif", serif;
+  font-family: "PT Serif", serif;
   line-height: 1.5;
   font-weight: normal;
 }
 
 img {
-  width: 100%
+  width: 100%;
 }
 
 figcaption {
   text-align: center;
-  font-size: 0.8rem;
+  font-size: .8rem;
   font-style: italic;
 }
 
@@ -52,7 +52,7 @@ blockquote {
 }
 
 footer cite {
-  font-size: 0.8rem;
+  font-size: .8rem;
 }
 
 .beets {
