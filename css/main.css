@@ -17,7 +17,7 @@ figcaption {
 
 h1, h2 {
   color: #3f1622;
-  font-size: 1.125rem;
+  font-size: 1.5rem;
   font-family: "PT Sans", sans-serif;
 }
 
@@ -29,6 +29,7 @@ nav ol {
   font-family: "PT Sans", sans-serif;
   list-style-type: none;
   font-weight: bold;
+  font-size: 1.125rem;
 }
 
 nav a {
@@ -63,7 +64,7 @@ footer cite {
   list-style-type: circle;
 }
 
-footer a {
+a {
   color: #8f2440;
   text-decoration: none;
 }
