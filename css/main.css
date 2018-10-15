@@ -57,3 +57,8 @@ footer cite {
 .circles {
   list-style-type: circle;
 }
+
+footer a {
+  color: #8f2440;
+  text-decoration: none;
+}
